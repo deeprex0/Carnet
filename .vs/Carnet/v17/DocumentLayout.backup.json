@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\D\\projects\\C#\\learn\\Carnet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FAF2AD7-5C57-4E97-BDE0-F69356E7C02D}|Carnet.csproj|d:\\d\\projects\\c#\\learn\\carnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FAF2AD7-5C57-4E97-BDE0-F69356E7C02D}|Carnet.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FAF2AD7-5C57-4E97-BDE0-F69356E7C02D}|Carnet.csproj|d:\\d\\projects\\c#\\learn\\carnet\\utilities\\carnetclasses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FAF2AD7-5C57-4E97-BDE0-F69356E7C02D}|Carnet.csproj|solutionrelative:utilities\\carnetclasses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FAF2AD7-5C57-4E97-BDE0-F69356E7C02D}|Carnet.csproj|d:\\d\\projects\\c#\\learn\\carnet\\chddada.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0FAF2AD7-5C57-4E97-BDE0-F69356E7C02D}|Carnet.csproj|solutionrelative:chddada.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FAF2AD7-5C57-4E97-BDE0-F69356E7C02D}|Carnet.csproj|d:\\d\\projects\\c#\\learn\\carnet\\ettdaya.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0FAF2AD7-5C57-4E97-BDE0-F69356E7C02D}|Carnet.csproj|solutionrelative:ettdaya.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ettdaya.txt",
+              "DocumentMoniker": "D:\\D\\projects\\C#\\learn\\Carnet\\Ettdaya.txt",
+              "RelativeDocumentMoniker": "Ettdaya.txt",
+              "ToolTip": "D:\\D\\projects\\C#\\learn\\Carnet\\Ettdaya.txt",
+              "RelativeToolTip": "Ettdaya.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-04-21T21:48:50.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Chddada.txt",
+              "DocumentMoniker": "D:\\D\\projects\\C#\\learn\\Carnet\\Chddada.txt",
+              "RelativeDocumentMoniker": "Chddada.txt",
+              "ToolTip": "D:\\D\\projects\\C#\\learn\\Carnet\\Chddada.txt",
+              "RelativeToolTip": "Chddada.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-04-20T21:00:31.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarnetClasses.cs",
+              "DocumentMoniker": "D:\\D\\projects\\C#\\learn\\Carnet\\Utilities\\CarnetClasses.cs",
+              "RelativeDocumentMoniker": "Utilities\\CarnetClasses.cs",
+              "ToolTip": "D:\\D\\projects\\C#\\learn\\Carnet\\Utilities\\CarnetClasses.cs*",
+              "RelativeToolTip": "Utilities\\CarnetClasses.cs*",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwBEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T19:50:18.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\D\\projects\\C#\\learn\\Carnet\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\D\\projects\\C#\\learn\\Carnet\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T19:17:27.87Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
