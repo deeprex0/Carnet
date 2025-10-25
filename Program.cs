@@ -52,25 +52,14 @@ if(Choix == 1){
         case 5:
         eawd = false;
         break;
-
-    
-
-
-
-
-
     }
-    
-
 }
-
 else if(Choix == 3){
     eawd = false;
 }
-
-else{
+else
+{
     Console.WriteLine("makayn walo ajmi");
-
+}
 }
 
-}
